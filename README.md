@@ -19,7 +19,7 @@ bestimmten Krankheiten rechtzeitig Maßnahmen einleiten zu können, sodass ein s
 Motivation zu verkörpern, nannte sich das Projektteam "Lifesaver", denn dieses Projekt
 soll Leben retten.
 
-##Anmerkungen zur Umsetzung
+## Anmerkungen zur Umsetzung
 
 Zunächst wurden angemessene Daten gesucht. Es stellte sich heraus, dass medizinische "Time-to-Event"-Daten, welche für dieses Projekt benötigt wurden, sehr schwer zu beschaffen sind und meistens nur auf Anfrage oder ähnliche Umwege erhalten werden können. Nach einigen Recherchen sind wir auf eine Studie über Herzkrankheiten gestoßen.
 
